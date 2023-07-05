@@ -45,7 +45,7 @@ const Projetos = () => {
               text={
                 'É uma aplicação react que realiza o uso da API rest countries e exibe informações de países (população, moeda, bandeira, etc)'
               }
-              link={'https://github.com/jpedro1711/react-countries'}
+              link={'https://react-countries-kappa.vercel.app/'}
               tecnologias={['React', 'JavaScript', 'Axios']}
             />
           </div>
