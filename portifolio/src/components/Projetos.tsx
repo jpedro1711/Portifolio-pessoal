@@ -48,6 +48,25 @@ const Projetos = () => {
               link={'https://react-countries-kappa.vercel.app/'}
               tecnologias={['React', 'JavaScript', 'Axios']}
             />
+            <Card
+              title={
+                'Aplicação Full stack Java spring + NextJS - Locadora de veículos'
+              }
+              imgSrc={
+                'https://raw.githubusercontent.com/jpedro1711/rental-website/main/assets/filtro.png'
+              }
+              text={
+                'É um projeto que simula as principais funcionalidades de uma locadora de veículos para um usuário, incluindo filtro pro categorias, ferramenta de busca, autenticação e muito mais'
+              }
+              link={'https://github.com/jpedro1711/rental-website'}
+              tecnologias={[
+                'Java',
+                'Spring boot',
+                'Postgres',
+                'Maven',
+                'NextJS',
+              ]}
+            />
           </div>
         </div>
       </div>
