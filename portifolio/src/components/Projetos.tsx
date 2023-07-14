@@ -58,7 +58,7 @@ const Projetos = () => {
               text={
                 'É um projeto que simula as principais funcionalidades de uma locadora de veículos para um usuário, incluindo filtro pro categorias, ferramenta de busca, autenticação e muito mais'
               }
-              link={'https://rental-website-eight.vercel.app/'}
+              link={'https://github.com/jpedro1711/rental-website'}
               tecnologias={[
                 'Java',
                 'Spring boot',
