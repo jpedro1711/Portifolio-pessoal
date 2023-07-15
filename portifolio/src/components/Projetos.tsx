@@ -5,11 +5,11 @@ const Projetos = () => {
   return (
     <div>
       <div className="bg-gray-800 flex items-start py-32 px-2">
-        <div className="container mx-auto flex-col justify-center items-center">
+        <div className="container mx-auto flex-col justify-start items-center">
           <h1 className="text-4xl text-white py-4" id="projetos">
             Projetos Pessoais
           </h1>
-          <div className="flex flex-wrap mt-4">
+          <div className="flex flex-wrap mt-4 justify-start">
             <Card
               title={'Jogo de xadrez'}
               imgSrc={
