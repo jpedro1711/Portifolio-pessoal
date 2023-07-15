@@ -9,7 +9,7 @@ const Projetos = () => {
           <h1 className="text-4xl text-white py-4" id="projetos">
             Projetos Pessoais
           </h1>
-          <div className="flex flex-wrap mt-4 justify-start">
+          <div className="flex flex-wrap justify-start mt-4">
             <Card
               title={'Jogo de xadrez'}
               imgSrc={
