@@ -49,6 +49,17 @@ const Projetos = () => {
               tecnologias={['React', 'JavaScript', 'Axios']}
             />
             <Card
+              title={'To do app com Angular'}
+              imgSrc={
+                'https://raw.githubusercontent.com/jpedro1711/todo-angular/main/assets/Captura%20de%20tela%202023-07-20%20125956.png'
+              }
+              text={
+                'É uma aplicação angular que é responsável pelo gerenciamento de tarefas do usuário, permitindo cadastro, edição, remoção e atualização do estado'
+              }
+              link={'https://jpedro1711.github.io/todo-angular/'}
+              tecnologias={['Angular']}
+            />
+            <Card
               title={
                 'Aplicação Full stack Java spring + NextJS - Locadora de veículos'
               }
